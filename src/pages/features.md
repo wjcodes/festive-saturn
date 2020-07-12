@@ -5,7 +5,7 @@ sections:
     type: section_content
     background: gray
     image: images/feature1.png
-    title: The Best Features of Your Services
+    title: More on our Services
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
