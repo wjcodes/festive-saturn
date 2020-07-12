@@ -43,7 +43,7 @@ sections:
         actions: []
         type: feature_item
         image: images/Savings-bro.svg
-      - title: Building Trust
+      - title: Trust
         content: >-
           ## Lorem ipsum
 
