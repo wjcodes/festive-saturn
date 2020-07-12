@@ -28,14 +28,13 @@ sections:
     features:
       - title: Cost Reduction
         content: >-
-          ## Lorem ipsum
+          Full time privacy professionals are expensive and many small to medium
+          size organizations do not have the resources to hire a full time
+          support.
 
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          This is where we come in as we provide custom privacy services
+          tailored to your organizational needs.
         actions: []
         type: feature_item
     type: section_features
