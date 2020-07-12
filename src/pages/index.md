@@ -11,7 +11,7 @@ sections:
     actions:
       - label: Learn More
         url: /features
-  - title: Services
+  - title: Our Services
     section_id: services
     subtitle: >-
       We provide a wide range of privacy services from breach management to
