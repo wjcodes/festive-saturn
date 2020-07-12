@@ -31,9 +31,9 @@ sections:
       - title: Breach Management
         image: images/feature2.png
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          Have a breach? No need to worry as we have vast experience managing
+          breaches, from direct client and management calls, to working with the
+          regulators.
         actions:
           - label: Learn More
             url: /features
