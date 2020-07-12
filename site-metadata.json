@@ -37,10 +37,6 @@
                 "url": "/about"
             },
             {
-                "label": "Sign Up",
-                "url": "signup"
-            },
-            {
                 "label": "Contact",
                 "url": "/contact"
             }
