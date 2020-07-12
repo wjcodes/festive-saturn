@@ -3,7 +3,7 @@ title: About Us
 subtitle: >-
   This is an optional subtitle. It can be used to describe what this page is
   about.
-image: images/Team spirit-bro.svg
+image: images/Team-bro.svg
 template: page
 ---
 
