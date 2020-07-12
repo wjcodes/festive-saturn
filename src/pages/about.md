@@ -3,7 +3,7 @@ title: About Us
 subtitle: >-
   This is an optional subtitle. It can be used to describe what this page is
   about.
-image: images/10.jpg
+image: images/Playful cat-rafiki.svg
 template: page
 ---
 
