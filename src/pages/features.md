@@ -7,20 +7,19 @@ sections:
     image: images/feature1.png
     title: More on our Services
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      We want to be as integrated in your organization as possible as good
+      privacy practices requires strong understanding of the business being
+      served.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
+      Our privacy operational services are end to end:
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      * Reduce operational costs
+
+      * Maintaing trusts of your clients
+
+      * Third party management
     actions: []
 template: landing
 ---
