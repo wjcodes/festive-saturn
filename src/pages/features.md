@@ -7,9 +7,14 @@ sections:
     image: images/Security-bro.svg
     title: More on our Services
     content: >-
-      We want to be as integrated in your organization as possible as good
-      privacy operations and practices requires a high level of involvement and
-      strong understanding of the business being served.
+      Privacy operations is a requirement to be compliant to the law and to
+      maintain the trusts of the people using your services. This doesn't mean
+      it has to be a painful or complex process.
+
+
+      Since we know that good privacy operations and practices require a high
+      level of involvement, we work closely with you to ensure we have a strong
+      understanding of your business needs. 
 
 
       Our privacy operational services are end to end:
