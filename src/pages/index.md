@@ -55,7 +55,9 @@ sections:
         url: /signup
   - title: Services
     section_id: services
-    subtitle: lorem-ipsum
+    subtitle: >-
+      We provide a wide range of privacy services from breach management to
+      general advisory services.
     background: gray
     features: []
     type: section_features
