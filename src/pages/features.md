@@ -21,7 +21,7 @@ sections:
 
       * Third party management
     actions: []
-  - title: lorem-ipsum
+  - title: End to End Services
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
