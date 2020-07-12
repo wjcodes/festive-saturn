@@ -72,14 +72,7 @@
         "subscribe_title": "Email Us",
         "subscribe_content": "privacy@email.com",
         "content": "&copy; Privacy. All rights reserved.",
-        "links": [
-            {
-                "label": "Privacy",
-                "url": "https://festive-saturn-aa528.netlify.app/",
-                "new_window": false,
-                "primary": true
-            }
-        ]
+        "links": []
     },
     "title": "Privacy"
 }
