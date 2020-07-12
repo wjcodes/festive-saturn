@@ -20,6 +20,11 @@ sections:
       * Maintaing trusts of your clients
 
       * Third party management
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        primary: false
+        new_window: true
+        type: action
 template: landing
 ---
