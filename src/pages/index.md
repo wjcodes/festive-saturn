@@ -5,9 +5,7 @@ sections:
     type: section_hero
     image: images/IMG_20200710_121214.jpg
     title: Privacy On Demand
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: We provide privacy services to you so that you don't have to.
     actions:
       - label: Learn More
         url: /features
