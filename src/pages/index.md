@@ -31,9 +31,7 @@ sections:
           Privacy Officers with hands on operational experience are costly and
           difficult to find. We've figured out how to provide these services to
           you without reducing operational quality.
-        actions:
-          - label: Learn More
-            url: /features
+        actions: []
       - title: Breach Management
         image: images/Hacker-bro.svg
         content: >-
