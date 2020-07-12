@@ -4,4 +4,4 @@ subtitle: We're a small yet highly effective team
 image: images/Playful cat-rafiki.png
 template: page
 ---
-Our team is made up of three primary team members with over a decade worth of experience working in privacy and law, including the healthcare industry.
+Our team is made up of a group of friends with over a decade worth of experience working in privacy and law, including the healthcare industry.
