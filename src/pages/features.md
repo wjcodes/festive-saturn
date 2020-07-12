@@ -23,7 +23,7 @@ sections:
     actions: []
   - title: End to End Services
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: ''
     background: gray
     features:
       - title: lorem-ipsum
