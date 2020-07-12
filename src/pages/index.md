@@ -53,9 +53,5 @@ sections:
     actions:
       - label: Get Started
         url: /signup
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
-    title: Latest Posts
 template: landing
 ---
