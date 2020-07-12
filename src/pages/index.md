@@ -58,6 +58,6 @@ sections:
     subtitle: Feel free to email us at privacy@email.com
     actions:
       - label: Get Started
-        url: /signup
+        url: /features
 template: landing
 ---
