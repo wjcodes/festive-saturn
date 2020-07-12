@@ -22,9 +22,9 @@ sections:
       - title: Privacy Officer Services
         image: images/feature1.png
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          Privacy Officers with hands on operational experience are costly and
+          difficult to find. We've figured out how to provide these services to
+          you without reducing operational quality.
         actions:
           - label: Learn More
             url: /features
