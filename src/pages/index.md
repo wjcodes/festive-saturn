@@ -11,6 +11,14 @@ sections:
     actions:
       - label: Learn More
         url: /features
+  - title: Services
+    section_id: services
+    subtitle: >-
+      We provide a wide range of privacy services from breach management to
+      general advisory services.
+    background: gray
+    features: []
+    type: section_features
   - section_id: features
     type: section_features
     background: white
@@ -53,13 +61,5 @@ sections:
     actions:
       - label: Get Started
         url: /signup
-  - title: Services
-    section_id: services
-    subtitle: >-
-      We provide a wide range of privacy services from breach management to
-      general advisory services.
-    background: gray
-    features: []
-    type: section_features
 template: landing
 ---
