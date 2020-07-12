@@ -55,7 +55,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Want to learn more?
-    subtitle: We have plenty to offer
+    subtitle: We offer a full suite of privacy services
     actions:
       - label: Get Started
         url: /signup
