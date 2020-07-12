@@ -21,8 +21,6 @@ sections:
 
       Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
       sed justo tempor condimentum.
-    actions:
-      - label: Free Trial
-        url: /signup
+    actions: []
 template: landing
 ---
