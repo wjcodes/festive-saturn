@@ -29,7 +29,7 @@ sections:
           - label: Learn More
             url: /features
       - title: Breach Management
-        image: images/feature2.png
+        image: images/Hacker-bro.svg
         content: >-
           Have a breach? No need to worry as we have vast experience managing
           breaches, from direct client and management calls, to working with the
