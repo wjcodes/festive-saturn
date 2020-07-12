@@ -38,7 +38,7 @@ sections:
           - label: Learn More
             url: /features
       - title: Privacy Impact Assessments
-        image: images/feature3.png
+        image: images/Safe-bro.svg
         content: >-
           Collectively, we've completed hundreds of PIAs from full privacy
           program reviews, new software launches, and internal organizational
