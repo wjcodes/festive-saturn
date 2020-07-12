@@ -9,7 +9,7 @@ sections:
     background: gray
     actions: []
     type: section_content
-  - title: lorem-ipsum
+  - title: About Us
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
