@@ -60,6 +60,7 @@ sections:
           agreements are in place to protect your organization.
         actions: []
         type: feature_item
+        image: images/Warning-rafiki.svg
     type: section_features
 template: landing
 ---
