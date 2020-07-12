@@ -22,7 +22,7 @@ sections:
           - dolor sit amet
         type: faq_item
     type: section_faq
-  - title: lorem-ipsum
+  - title: Contact Us
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
