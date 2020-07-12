@@ -26,7 +26,7 @@ sections:
     subtitle: ''
     background: gray
     features:
-      - title: lorem-ipsum
+      - title: Cost Reduction
         content: >-
           ## Lorem ipsum
 
