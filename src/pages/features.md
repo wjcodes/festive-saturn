@@ -55,14 +55,9 @@ sections:
         image: images/Security On-pana.svg
       - title: Third Party Management
         content: >-
-          ## Lorem ipsum
-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Third parties are one of the biggest risks to any organization. We
+          make sure the appropriate due diligence and privacy terms in
+          agreements are in place to protect your organization.
         actions: []
         type: feature_item
     type: section_features
