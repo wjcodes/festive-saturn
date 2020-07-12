@@ -1,8 +1,6 @@
 ---
 title: About Us
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+subtitle: We're a small yet highly effective team
 image: images/Playful cat-rafiki.png
 template: page
 ---
