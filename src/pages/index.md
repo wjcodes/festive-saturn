@@ -5,7 +5,9 @@ sections:
     type: section_hero
     image: images/IMG_20200710_121214.jpg
     title: Privacy On Demand
-    content: We provide privacy services to you so that you don't have to worry.
+    content: >-
+      We provide privacy operational services so that you don't have to worry
+      about managing this complexity.
     actions:
       - label: Learn More
         url: /features
