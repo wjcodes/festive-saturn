@@ -45,9 +45,7 @@ sections:
           Collectively, we've completed hundreds of PIAs from full privacy
           program reviews, new software launches, and internal organizational
           PIAs.
-        actions:
-          - label: Learn More
-            url: /features
+        actions: []
   - section_id: call-to-action
     type: section_cta
     title: Want to learn more?
