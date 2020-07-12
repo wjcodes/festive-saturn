@@ -6,8 +6,7 @@ sections:
     background: gray
     title: Contact Us
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+      If you're interested in the services we have to offer, please feel free to
+      reach out to us at privacy@email.com.
 template: landing
 ---
