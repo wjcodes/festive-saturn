@@ -23,9 +23,7 @@ sections:
     type: section_features
     background: white
     title: ''
-    subtitle: >-
-      We provide a wide range of privacy services from breach management to
-      general advisory services.
+    subtitle: ''
     features:
       - title: Privacy Officer Services
         image: images/diligent-sage.svg
