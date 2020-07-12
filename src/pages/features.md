@@ -4,7 +4,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/feature1.png
+    image: images/Security-bro.svg
     title: More on our Services
     content: >-
       We want to be as integrated in your organization as possible as good
