@@ -28,7 +28,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
-      - title: Awesome Feature of Your Services
+      - title: Breach Management
         image: images/feature2.png
         content: >-
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
