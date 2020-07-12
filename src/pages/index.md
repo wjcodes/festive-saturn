@@ -59,10 +59,5 @@ sections:
     actions:
       - label: Get Started
         url: /signup
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        primary: false
-        new_window: true
-        type: action
 template: landing
 ---
