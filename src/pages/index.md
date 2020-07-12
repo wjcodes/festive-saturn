@@ -13,7 +13,7 @@ sections:
         url: /features
   - section_id: features
     type: section_features
-    background: white
+    background: gray
     title: Services
     subtitle: >-
       We provide a wide range of privacy services from breach management to
