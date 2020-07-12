@@ -40,9 +40,9 @@ sections:
       - title: Privacy Impact Assessments
         image: images/feature3.png
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          Collectively, we've completed hundreds of PIAs from full privacy
+          program reviews, new software launches, and internal organizational
+          PIAs.
         actions:
           - label: Learn More
             url: /features
