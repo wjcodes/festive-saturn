@@ -68,7 +68,7 @@
                 "new_window": true
             }
         ],
-        "has_subscribe": true,
+        "has_subscribe": false,
         "subscribe_title": "Email Us",
         "subscribe_content": "privacy@email.com",
         "content": "&copy; Privacy. All rights reserved.",
