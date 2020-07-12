@@ -20,7 +20,7 @@ sections:
       general advisory services.
     features:
       - title: Privacy Officer Services
-        image: images/Secure data-bro.svg
+        image: images/diligent-sage.svg
         content: >-
           Privacy Officers with hands on operational experience are costly and
           difficult to find. We've figured out how to provide these services to
