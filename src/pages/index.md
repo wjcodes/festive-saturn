@@ -53,7 +53,7 @@ sections:
     actions:
       - label: Get Started
         url: /signup
-  - title: lorem-ipsum
+  - title: Services
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
