@@ -45,14 +45,11 @@ sections:
         image: images/Savings-bro.svg
       - title: Trust
         content: >-
-          ## Lorem ipsum
-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          We understand that building and maintaining trust of your clients is
+          increadibly important to you. By having a strong privacy program in
+          place, it signals to your clients that you take their data seriously.
+          This is difficult to quantify but we strongly believe adds significant
+          value to any organization.
         actions: []
         type: feature_item
     type: section_features
