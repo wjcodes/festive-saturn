@@ -37,6 +37,7 @@ sections:
           tailored to your organizational needs.
         actions: []
         type: feature_item
+        image: images/Savings-bro.svg
     type: section_features
 template: landing
 ---
