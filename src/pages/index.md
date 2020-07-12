@@ -22,7 +22,7 @@ sections:
   - section_id: features
     type: section_features
     background: white
-    title: Services
+    title: ''
     subtitle: >-
       We provide a wide range of privacy services from breach management to
       general advisory services.
