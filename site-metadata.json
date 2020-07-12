@@ -70,7 +70,7 @@
         ],
         "has_subscribe": false,
         "subscribe_title": "Subscribe",
-        "subscribe_content": "privacy@email.com",
+        "subscribe_content": "",
         "content": "&copy; Privacy. All rights reserved.",
         "links": []
     },
