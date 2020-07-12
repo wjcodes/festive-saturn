@@ -22,7 +22,7 @@ sections:
       * Third party management
     actions: []
   - title: End to End Services
-    section_id: lorem-ipsum
+    section_id: services
     subtitle: ''
     background: gray
     features:
