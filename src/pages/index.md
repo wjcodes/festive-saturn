@@ -55,7 +55,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Want to learn more?
-    subtitle: Please check out what else we have to offer
+    subtitle: We have plenty to offer
     actions:
       - label: Get Started
         url: /signup
