@@ -11,6 +11,13 @@
             {
                 "label": "Services",
                 "url": "/features"
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "primary": false,
+                "new_window": true,
+                "type": "action"
             }
         ]
     },
