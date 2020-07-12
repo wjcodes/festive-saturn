@@ -52,6 +52,7 @@ sections:
           value to any organization.
         actions: []
         type: feature_item
+        image: images/Security On-pana.svg
     type: section_features
 template: landing
 ---
