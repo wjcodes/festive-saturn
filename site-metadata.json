@@ -2,7 +2,6 @@
     "palette": "purple",
     "header": {
         "title": "PRIVACY",
-        "logo_img": "images/logo.png",
         "has_nav": true,
         "nav_links": [
             {
