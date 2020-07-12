@@ -14,8 +14,8 @@ sections:
     background: gray
     title: Services
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      We provide a wide range of privacy services from breach management to
+      general advisory services.
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
