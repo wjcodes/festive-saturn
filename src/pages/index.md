@@ -19,7 +19,7 @@ sections:
       We provide a wide range of privacy services from breach management to
       general advisory services.
     features:
-      - title: The Best Feature of Your Services
+      - title: Privacy Officer Services
         image: images/feature1.png
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
