@@ -19,7 +19,7 @@ sections:
     background: gray
     features: []
     type: section_features
-  - section_id: features
+  - section_id: ''
     type: section_features
     background: white
     title: ''
