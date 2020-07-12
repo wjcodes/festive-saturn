@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/IMG_20200710_121214.jpg
+    image: images/Superhero-amico.svg
     title: Privacy On Demand
     content: >-
       We provide privacy operational services so that you don't have to worry
