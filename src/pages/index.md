@@ -55,7 +55,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Want to learn more?
-    subtitle: We offer a full suite of privacy services
+    subtitle: Feel free to email us at privacy@email.com
     actions:
       - label: Get Started
         url: /signup
