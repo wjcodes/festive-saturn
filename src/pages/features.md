@@ -24,7 +24,5 @@ sections:
     actions:
       - label: Free Trial
         url: /signup
-      - label: View Demo
-        url: '#'
 template: landing
 ---
