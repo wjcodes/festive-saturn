@@ -76,7 +76,8 @@
             {
                 "label": "Privacy",
                 "url": "https://festive-saturn-aa528.netlify.app/",
-                "new_window": true
+                "new_window": true,
+                "primary": true
             }
         ]
     },
