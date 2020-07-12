@@ -51,7 +51,7 @@ sections:
     title: Want to learn more?
     subtitle: Feel free to reach out to us at privacy@email.com
     actions:
-      - label: Get Started
+      - label: More
         url: /features
 template: landing
 ---
