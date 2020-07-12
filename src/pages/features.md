@@ -22,7 +22,7 @@ sections:
 
       * Reduce operational costs
 
-      * Maintaing trusts of your clients
+      * Building and maintaing trusts of your clients
 
       * Third party management
     actions: []
