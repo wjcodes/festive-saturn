@@ -38,9 +38,7 @@ sections:
           Have a breach? No need to worry as we have vast experience managing
           breaches, from direct client and management calls, to working with the
           regulators.
-        actions:
-          - label: Learn More
-            url: /features
+        actions: []
       - title: Privacy Impact Assessments
         image: images/Safe-bro.svg
         content: >-
