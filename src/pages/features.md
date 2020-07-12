@@ -53,7 +53,7 @@ sections:
         actions: []
         type: feature_item
         image: images/Security On-pana.svg
-      - title: lorem-ipsum
+      - title: Third Party Management
         content: >-
           ## Lorem ipsum
 
